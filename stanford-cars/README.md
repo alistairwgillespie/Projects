@@ -1,4 +1,4 @@
-# Standford Cars  - Image Classification
+# Stanford Cars  - Image Classification
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/morganmcg1/Projects/master)
   <- Launch Binder or share the [Binder link](https://mybinder.org/v2/gh/morganmcg1/Projects/master)
